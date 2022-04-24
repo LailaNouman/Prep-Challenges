@@ -132,7 +132,6 @@ const cvFormatter = (arr) => {
 
 const applicationsStatics = (arr) => {
     // write your code here
-    let newObj = {python_devs, javaScript_devs, dotNet_devs, java_devs, totalApplicants, rejectedApplicants};
     
 };
 // -------------------------------------------------------------------------------------------------------
